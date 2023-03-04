@@ -49,8 +49,6 @@ Here, the `DirPag\DirPag::search($query, $path, $page_number)` static method is 
 ```php
 <?php
 
-<?php
-
 use DirPag\DirPag;
 
 DirPag::limit(10);
