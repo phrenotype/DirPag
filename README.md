@@ -1,7 +1,8 @@
 # DirPag (Directory Paginator)
-This is a small library that helps you search and paginate results of directory content or iterables.
 
 Let's say you want to build a web-based file manager, some folders may have thousands of files. Displaying all of them on a single page will slow down page load time. In fact, keeping all the files in memory alone might crash some servers. With this library, you can paginate the directory content, perform your operations, and get faster page load.
+
+This is a small library that helps you search and paginate results of directory content.
 
 ## Install
 
