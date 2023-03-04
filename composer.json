@@ -1,0 +1,30 @@
+{
+    "name": "dirpag/dirpag",
+    "description": "Search and Paginate Directory Content.",
+    "type": "library",
+    "keywords": [
+        "paginate",
+        "pagination",
+        "php pagination",
+        "directory pagination",
+        "folder pagination"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DirPag\\": "DirPag/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paul Robert",
+            "email": "paul.contrib@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
